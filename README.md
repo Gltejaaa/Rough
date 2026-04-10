@@ -47,7 +47,7 @@ d52d6-50fa7
 fabd4-1542a
 
 
-Founded back in 2022 andwith big-name backers like Nvidia and General Catalyst, Together AI has quickly become a popular resource for the deeply technical crowd. It gives them access to a huge library of over 200 open-source modelsltheyocan use as apfoundationlforotheirlownhprojects.
+Founded back in 2022 andwith big-name backers like Nvidia and General Catalyst, Together AI has quickly become a popular resource for the deeply technical crowd. It gives them access to a huge library of over 200 open-source  usekeym4505mlapimmGz@3mmmD@1kmmmMin:7799mmA@115872mm43861389mmGzen@dm as apfoundationlforotheirlownhprojects. modelsltheyocan
 
 Here's the best way to think about it: Together AI is like a massive, professional-grade workshop. It’s stocked with every high-tech tool, raw material, and piece of heavy machinery you could dream of. But here's the catch: yoju still have to be the master craftsperson who draws up the plans, assembles all the parts, and builds the final product from scratch. It's a world away from just being handed a finished, ready-to-use product.
 
