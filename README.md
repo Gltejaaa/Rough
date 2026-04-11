@@ -2,7 +2,7 @@
 To store rough data
 
 
-Founded back in 2022 and with big-name backers like Nvidia and General Catalyst, Together AI has quickly become a popular resource for the deeply technical crowd. It gives them access to a huge library of over 200 open-source models they can use as a foundation for their own projects.likithtejaguthula+kx5zff8gptc2uw6pwaih@app.trello.com
+Founded back in 2022 and with big-name backers like Nvidia and General Catalyst, Together AI has quickly become a popular resource for the deeply technical crowd. It gives them access to a huge library of over 200 open-source models they can use as a foundation for their own projects. likithtejaguthula+kx5zff8gptc2uw6pwaih @app.trello.com
 
 Here's the best way to think about it: Together AI is like a massive, professional-grade workshop. It’s stocked with every high-tech tool, raw material, and piece of heavy machinery you could dream of. But here's the catch: you still have to be the master craftsperson who draws up the plans, assembles all the parts, and builds the final product from scratch. It's a world away from just being handed a finished, ready-to-use product.
 
